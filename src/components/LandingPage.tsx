@@ -1,6 +1,5 @@
 import NavBar from "./NavBar";
 import Landing from "../assets/WB-Cropped.png"
-import { motion } from "motion/react"
 
 export default function LandingPage() {
   const Gallery: {name: string, achievement: string, img: string}[] = [
